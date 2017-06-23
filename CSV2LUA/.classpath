@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/javacsv.jar" sourcepath="D:/svn_project/devkee001/trunk/java/CSV2LUA/javacsv2.1.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
